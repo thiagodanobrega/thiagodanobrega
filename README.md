@@ -22,17 +22,10 @@
  
 ## &nbsp;Meet me:
     
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/thiagodanobrega" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-thiagodanobrega-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/thiagodanobrega_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-thiagodanobrega_-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="mailto:thiagodanobregasousa@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-thiagodanobregasousa-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&labelColor=05122A&logo=Linkedin&Color=white)](https://www.linkedin.com/in/thiagodanobrega/)
+[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&labelColor=05122A&logo=Instagram&Color=white)](https://instagram.com/thiagodanobrega_)
+[![Gamail](https://img.shields.io/badge/-Gmail-05122A?style=flat&labelColor=05122A&logo=Gmail&Color=white)](mailto:thiagodanobregasousa@gmail.com)
+
     
  <!--
 
