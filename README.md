@@ -17,7 +17,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=thiagodanobrega&show_icons=true" alt="maykbrito"/> </p>
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=thiagodanobrega&show_icons=true&theme=algolia" alt="maykbrito"/> </p>
    
  
 ## &nbsp;Meet me:
