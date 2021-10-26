@@ -22,11 +22,16 @@
  
 ## &nbsp;Meet me:
     
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&labelColor=05122A&logo=Linkedin&Color=white)](https://www.linkedin.com/in/thiagodanobrega/)
-[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&labelColor=05122A&logo=Instagram&Color=white)](https://instagram.com/thiagodanobrega_)
-[![Gamail](https://img.shields.io/badge/-Gmail-05122A?style=flat&labelColor=05122A&logo=Gmail&Color=white)](mailto:thiagodanobregasousa@gmail.com)
+ <a href="https://www.linkedin.com/in/thiagodanobrega/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&labelColor=05122A&logo=Linkedin&Color=white" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/thiagodanobrega_" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&labelColor=05122A&logo=Instagram&Color=white" alt="instagram"/>
+</a>
+<a href="mailto:thiagodanobregasousa@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&labelColor=05122A&logo=Gmail&Color=white" alt="gmail"/>
+</a>
 
-    
  <!--
 
 - 🔭 I’m currently working on ...
