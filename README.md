@@ -21,7 +21,7 @@
    
  
 ## &nbsp;Meet me:
-    
+ <p align="left" style="background:yellow">   
  <a href="https://www.linkedin.com/in/thiagodanobrega/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&labelColor=05122A&logo=Linkedin&Color=white" alt="linkedin"/>
 </a>
@@ -31,7 +31,7 @@
 <a href="mailto:thiagodanobregasousa@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&labelColor=05122A&logo=Gmail&Color=white" alt="gmail"/>
 </a>
-
+</p>
  <!--
 
 - 🔭 I’m currently working on ...
