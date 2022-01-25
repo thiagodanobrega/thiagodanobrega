@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Nóbrega</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Nóbrega</h1>
 <h3 align="center">Enthusiast of the best technologies and Web Development student</h3>
 
 - 👨‍💻 I am currently studying at [Trybe](https://www.betrybe.com/)
