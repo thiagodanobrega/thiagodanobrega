@@ -1,4 +1,7 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Nóbrega</h1>
+<!-- <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Nóbrega</h1> -->
+<p align="center">
+  <img alt="to.do" title="to.do" src="https://media-exp1.licdn.com/dms/image/C5616AQE1-5LRLBfOGQ/profile-displaybackgroundimage-shrink_350_1400/0/1643293067570?e=1648684800&v=beta&t=K0UizVHe37kLiyTxnUhmWRqjiWr1SXYV49vKzU-D0vE" width="1000px" />
+</p>
 <h3 align="center">Enthusiast of the best technologies and Web Development student</h3>
 
 - 👨‍💻 I am currently studying at [Trybe](https://www.betrybe.com/)
