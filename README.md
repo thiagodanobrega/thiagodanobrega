@@ -2,7 +2,11 @@
 <p align="center">
   <img alt="to.do" title="to.do" src="https://media-exp1.licdn.com/dms/image/C5616AQE1-5LRLBfOGQ/profile-displaybackgroundimage-shrink_350_1400/0/1643293067570?e=1648684800&v=beta&t=K0UizVHe37kLiyTxnUhmWRqjiWr1SXYV49vKzU-D0vE" width="1000px" />
 </p>
-<h3 align="center">Enthusiast of the best technologies and Web Development student</h3>
+<h4 align="center">
+  I am a professional in career transition, who found a life purpose in programming. I love solving problems through code and I want to be able to help improve people's lives by developing products that are scalable and functional.
+</h4>
+
+## 
 
 - 👨‍💻 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
 
