@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">Enthusiast of the best technologies and Web Development student</h3>
 
-- 👨‍💻 I am currently studying at [Trybe](https://www.betrybe.com/)
+- 👨‍💻 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
 
 - 💬 I am always available to collobarate
 
