@@ -10,25 +10,42 @@
 
 - 👨‍💻 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
 
-- 💬 I am always available to collobarate
-
 - 📫 How to reach me **thiagons@live.com**
 
 - 🚀 “Nothing in the world can take the place of persistence. Talent will not; nothing is more
       common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education
       will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent.” ― Calvin Coolidge
 
-   
+
+
 ## &nbsp;Learning:
-    
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=thiagodanobrega&show_icons=true&theme=algolia"/>
+ 
+<p align="start">
+ <img align="center" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="linkedin"/>
+ <img align="center" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub"/>
+ <img align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
+ <img align="center" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML"/>
+ <img align="center" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/>
+ <img align="center" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React"/>
+ <img align="center" src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest"/>
+ <img align="center" src="https://img.shields.io/badge/-RTL-05122A?style=flat&logo=testing-library" alt="RTL"/>
+  
+ 
+</p>
+
+ 
+<!-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=thiagodanobrega&show_icons=true&theme=algolia"/> </p>
+![Testing Library](https://img.shields.io/badge/-RTL-05122A?style=flat&logo=testing-library)&nbsp;
+ -->
+
    
  
 ## &nbsp;Meet me:  
@@ -36,12 +53,9 @@
  <a href="https://www.linkedin.com/in/thiagodanobrega/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&labelColor=05122A&logo=Linkedin&Color=white" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/thiagodanobrega_" target="_blank">
+<!-- <a href="https://instagram.com/thiagodanobrega_" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&labelColor=05122A&logo=Instagram&Color=white" alt="instagram"/>
-</a>
-<a href="mailto:thiagodanobregasousa@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&labelColor=05122A&logo=Gmail&Color=white" alt="gmail"/>
-</a>
+</a> -->
 
 
 
