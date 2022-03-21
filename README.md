@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Thiago Nóbrega! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h4 align="center"> 💻 Software Development | Web Development Student</h4>
 
-## 🚀 About me: 
+## About me: 
 
 - 👩‍💻 I am a professional in career transition, who found a life purpose in programming. I love solving problems through code and I want to be able to help improve people's lives by developing applications that are scalable and functional.
 - 🧠 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
 - 📫 How to reach me: **thiagons@live.com**
 
-## 🛠 Languages and tools:
+## Languages and tools:
 
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=thiagodanobrega&show_icons=true&theme=algolia"/>
 
@@ -24,7 +24,7 @@
   <a href="https://imgbb.com/"><img title="React Testing Library" height="40" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library"></a>
 </p>
    
-## 🔗 Links:  
+## Links:  
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodanobrega/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
