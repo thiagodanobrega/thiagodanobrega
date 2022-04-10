@@ -5,6 +5,7 @@
 
 - 👩‍💻 I am a professional in career transition, who found a life purpose in programming. I love solving problems through code and I want to be able to help improve people's lives by developing applications that are scalable and functional.
 - 🧠 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
+- 💬 Ask me about Javascript, React, Redux, Context APi, tests...
 - 📫 How to reach me: **thiagons@live.com**
 
 ## Languages and tools:
