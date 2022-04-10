@@ -1,17 +1,30 @@
-<h1 align="center">Hi, I'm Thiago Nóbrega! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h4 align="center"> 💻 Software Development | Web Development Student</h4>
+<!-- <img src="https://i.postimg.cc/VNBmFhbk/capa2.png"> -->
+<h3 align="left">Hi, I'm Thiago Nóbrega! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+web+development+student">
 
+<!-- <h4 align="center"> 💻 Software Development | Web Development Student</h4>
+ -->
 ## About me: 
 
-- 👩‍💻 I am a professional in career transition, who found a life purpose in programming. I love solving problems through code and I want to be able to help improve people's lives by developing applications that are scalable and functional.
-- 🧠 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
-- 💬 Ask me about Javascript, React, Redux, Context APi, tests...
-- ⚡ I like to play FIFA and watch fiction and fantasy series
-- 📫 How to reach me: **thiagons@live.com**
+<!-- <img align="right" src="https://i.postimg.cc/85vT2YqW/person1.png" width="170px"> -->
+<!-- <img align="right" src="https://i.postimg.cc/wjJM87L3/person2.png" width="180px"> -->
+<img align="right" src="https://i.postimg.cc/Vvr1qVF5/person4.png" width="230px">
+
+
+
+👩‍💻 I am a professional in career transition, who found a life purpose in programming. I love solving problems through code and I want to be able to help improve people's lives by developing applications that are scalable and functional.
+
+🧠 I am currently studying Web Development at [Trybe](https://www.betrybe.com/)
+
+💬 Ask me about Javascript, React, Redux, Context APi, tests...
+
+⚡ I like to play FIFA and watch fiction and fantasy series
+
+📫 How to reach me: **thiagons@live.com**
+  
+
 
 ## Languages and tools:
-
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=thiagodanobrega&show_icons=true&theme=algolia"/>
 
 <p align="left"> 
   <a href="https://icons8.com/icon/20906/git" target="_blank"><img title="Git" height="40" src="https://img.icons8.com/color/48/000000/git.png"/></a>
@@ -31,8 +44,10 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagodanobrega/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 
+## Statistics:
 
-
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=thiagodanobrega&show_icons=true&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodanobrega&layout=compact&langs_count=7&theme=algolia"/>
  <!--
 
 - 🔭 I’m currently working on ...
