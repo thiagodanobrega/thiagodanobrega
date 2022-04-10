@@ -8,7 +8,7 @@
 
 <!-- <img align="right" src="https://i.postimg.cc/85vT2YqW/person1.png" width="170px"> -->
 <!-- <img align="right" src="https://i.postimg.cc/wjJM87L3/person2.png" width="180px"> -->
-<img align="right" src="https://i.postimg.cc/Vvr1qVF5/person4.png" width="230px">
+<img align="right" src="https://i.postimg.cc/Vvr1qVF5/person4.png" width="220px">
 
 
 
@@ -46,8 +46,8 @@
 
 ## Statistics:
 
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=thiagodanobrega&show_icons=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodanobrega&layout=compact&langs_count=7&theme=algolia"/>
+<img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=thiagodanobrega&show_icons=true&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodanobrega&layout=compact&langs_count=7&theme=algolia"/>
  <!--
 
 - 🔭 I’m currently working on ...
