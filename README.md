@@ -6,10 +6,10 @@
  -->
 ## About me: 
 
-<!-- <img align="right" src="https://i.postimg.cc/85vT2YqW/person1.png" width="170px"> -->
-<!-- <img align="right" src="https://i.postimg.cc/wjJM87L3/person2.png" width="180px"> -->
 <!-- <img align="right" src="https://i.postimg.cc/HLpV3br4/programmer-3.png" width="300px"> -->
-<img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
+<!-- <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/> -->
+<img align="right" src="https://github.com/thiagodanobrega/thiagodanobrega/blob/main/programmer.gif?raw=true" height="250"/>
+
 
 
 
