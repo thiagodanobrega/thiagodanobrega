@@ -1,5 +1,5 @@
 <h3 align="left">Hi, I'm Thiago Nóbrega! <img height="25" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Welcome+to+my+profile+on+Github;I'm+a+web+development+student">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Welcome+to+my+profile;I'm+a+Front-End+Developer">
 
 <!-- <h4 align="center"> 💻 Software Development | Web Development Student</h4> -->
 
@@ -30,9 +30,27 @@
   </a>
   <a href="https://icons8.com/icon/t5K2CR8feVdX/react" target="_blank"><img title="React.js" width="40" src="https://img.icons8.com/officel/80/000000/react.png" width="48px" /></a>
   <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img title="Redux" height="40" src="https://img.icons8.com/color/48/000000/redux.png" /></a>
-  <a href="https://icons8.com/icon/84710/bootstrap" target="_blank"><img title="Bootstrap" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></a>
-  <a href="https://icons8.com/icon/bp24DwGXJDyT/jest-can-collect-code-coverage-information-from-entire-projects"><img title="Jest" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/></a>
-  <a href="https://imgbb.com/"><img title="React Testing Library" height="40" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library"></a>
+<a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank">
+  <img title="Tailwindcss" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+</a>
+<a href="https://camo.githubusercontent.com/5174ecc6e5da108f3afce948d39f9f11097c29e303fa6050c3aa3e16cc965459/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3136302f6170706c652f3139382f6e61696c2d706f6c6973685f31663438352e706e67" target="_blank">
+  <img title="Styled-components" width="40" src="https://camo.githubusercontent.com/5174ecc6e5da108f3afce948d39f9f11097c29e303fa6050c3aa3e16cc965459/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3136302f6170706c652f3139382f6e61696c2d706f6c6973685f31663438352e706e67" width="48px" />
+</a> 
+<a href="https://icons8.com/icon/bp24DwGXJDyT/jest-can-collect-code-coverage-information-from-entire-projects">
+    <img title="Jest" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
+</a>
+<a href="https://imgbb.com/">
+  <img title="React Testing Library" height="40" src="https://i.ibb.co/njDnkQq/testing-library.png" alt="testing-library">
+</a>
+<a href="https://img.icons8.com/color/344/mysql-logo.png" target="_blank">
+  <img title="MySql" width="40" src="https://img.icons8.com/color/344/mysql-logo.png" width="48px" />
+</a>
+<a href="https://img.icons8.com/fluency/344/docker.png" target="_blank">
+  <img title="Docker" width="40" src="https://img.icons8.com/fluency/344/docker.png" width="48px" />
+</a>
+<a href="https://img.icons8.com/color/344/nodejs.png" target="_blank">
+  <img title="Node.js" width="40" src="https://img.icons8.com/color/344/nodejs.png" width="48px" />
+</a> 
 </p>
    
 ## Links:  
