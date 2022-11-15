@@ -9,13 +9,13 @@
 <img align="right" src="https://github.com/thiagodanobrega/thiagodanobrega/blob/main/programmer.gif?raw=true" height="250"/>
 
 
-👩‍💻 Sou um profissional em transição de carreira, que encontrou na programação um propósito de vida. Adoro resolver problemas por meio do código e quero poder ajudar a melhorar a vida das pessoas desenvolvendo aplicações acessíveis e funcionais
+👩‍💻 Adoro resolver problemas através dos códigos e quero com isso poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam acessíveis e funcionais. 
 
-🧠 Atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+🔭 Trabalho como Software Enginner na XP Inc.
 
-💬 Estou disponível para ajudar com Javascript, React, Redux, Context APi, testes
+🧠 Atualmente estou estudando Desenvolvimento Android
 
-⚡ Gosto de assistir séries de fantasia e comédia, e de vez em quando, jogar FIFA com os amigos
+💬 Estou disponível para ajudar com Javascript, React, testes, android...
 
 📫 Me encontre: **thiagons@live.com**
   
