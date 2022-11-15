@@ -1,5 +1,5 @@
 <h3 align="left">Olá, eu sou o Thiago Nóbrega! <img height="25" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Bem-vindo+ao+meu+perfil;Eu+sou+Front-End+Developer">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Bem-vindo+ao+meu+perfil;">
 
 <!-- <h4 align="center"> 💻 Software Development | Web Development Student</h4> -->
 
