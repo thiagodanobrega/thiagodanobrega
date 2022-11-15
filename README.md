@@ -11,7 +11,7 @@
 
 👩‍💻 Adoro resolver problemas através dos códigos e quero com isso poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam acessíveis e funcionais. 
 
-🔭 Trabalho como Software Enginner na XP Inc.
+🔭 Trabalho como Software Engineer na XP Inc.
 
 🧠 Atualmente estou estudando Desenvolvimento Android
 
