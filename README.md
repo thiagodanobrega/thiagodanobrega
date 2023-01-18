@@ -1,7 +1,6 @@
-<h3 align="left">Olá, eu sou o Thiago Nóbrega! <img height="25" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Bem-vindo+ao+meu+perfil;">
+<!-- <h3 align="left">Olá, eu sou o Thiago Nóbrega! <img height="25" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> -->
 
-<!-- <h4 align="center"> 💻 Software Development | Web Development Student</h4> -->
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=41ADFB&center=falso&vCenter=falso&width=650&height=90&lines=Olá,+eu+sou+o+Thiago+Nóbrega;Bem-vindo+ao+meu+perfil!;">
 
 ## Sobre mim: 
 
@@ -11,11 +10,11 @@
 
 👩‍💻 Adoro resolver problemas através dos códigos e quero com isso poder ajudar a melhorar a vida das pessoas, desenvolvendo aplicações que sejam acessíveis e funcionais. 
 
-🔭 Trabalho como Software Engineer na XP Inc.
+🔭 Atualmente, trabalho como Mobile Software Engineer na XP Inc., atuando no módulo de Renda Variável do App XP Investimentos e Rico.
 
-🧠 Atualmente estou estudando Desenvolvimento Android
+🧠 Além das habilidades em desenvolvimento Android, Kotlin e Métodos Ágeis, tenho competências em Desenvolvimento Web que incluem: JavaScript, TypeScript, React, Redux, ContextAPI, TailwindCSS, Jest/RTL, Docker, MySQL, Node, Sequelize.
 
-💬 Estou disponível para ajudar com Javascript, React, testes, android...
+💬 Estou disponível para ajudar com Javascript, React, android...
 
 📫 Me encontre: **thiagons@live.com**
   
@@ -50,6 +49,14 @@
 </a>
 <a href="https://img.icons8.com/color/344/nodejs.png" target="_blank">
   <img title="Node.js" width="40" src="https://img.icons8.com/color/344/nodejs.png" width="48px" />
+</a> 
+  
+<a href="https://img.icons8.com/color/344/nodejs.png" target="_blank">
+  <img title="Kotlin" width="40" src="https://img.icons8.com/color/344/kotlin.png" width="48px" />
+</a> 
+  
+ <a href="https://img.icons8.com/color/344/nodejs.png" target="_blank">
+  <img title="Android" width="40" src="https://img.icons8.com/fluency/512/android-os.png" width="48px" />
 </a> 
 </p>
    
